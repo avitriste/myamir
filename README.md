@@ -1,0 +1,2 @@
+# myamir
+aprendizaje mysql 
